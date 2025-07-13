@@ -1,2 +1,109 @@
 {
+    "projects": [
+        {
+            "projectId": "4d2f9700-b621-11ed-afa1-0242ac120002",
+            "projectName": "Team Dashboard",
+            "projectDescription": "A collaborative team dashboard for tracking OKRs.",
+            "isTeamProject": true,
+            "isArchived": false,
+            "tags": [
+                "dashboard",
+                "team",
+                "okr"
+            ],
+            "createdAt": "2024-11-12T10:30:00Z",
+            "createdBy": "alice@example.com",
+            "updatedAt": "2025-01-05T12:00:00Z",
+            "updatedBy": "bob@example.com"
+        },
+        {
+            "projectId": "5f4b83f6-b621-11ed-afa1-0242ac120002",
+            "projectName": "Marketing Website",
+            "projectDescription": "Static site for product launch and lead generation.",
+            "isTeamProject": true,
+            "isArchived": false,
+            "tags": [
+                "marketing",
+                "landing",
+                "seo"
+            ],
+            "createdAt": "2025-02-10T14:15:00Z",
+            "createdBy": "carol@example.com",
+            "updatedAt": "2025-04-20T09:00:00Z",
+            "updatedBy": "dave@example.com"
+        },
+        {
+            "projectId": "70b5a452-b621-11ed-afa1-0242ac120002",
+            "projectName": "Internal Wiki",
+            "projectDescription": "Documentation platform for onboarding and team processes.",
+            "isTeamProject": true,
+            "isArchived": true,
+            "tags": [
+                "docs",
+                "internal",
+                "knowledge-base"
+            ],
+            "createdAt": "2023-08-01T08:45:00Z",
+            "createdBy": "eve@example.com",
+            "updatedAt": "2024-03-18T17:30:00Z",
+            "updatedBy": "frank@example.com"
+        },
+        {
+            "projectId": "88c3c296-b621-11ed-afa1-0242ac120002",
+            "projectName": "Personal Budget Tracker",
+            "projectDescription": "An app to manage and visualize personal finances.",
+            "isTeamProject": false,
+            "isArchived": false,
+            "tags": [
+                "finance",
+                "personal",
+                "tracker"
+            ],
+            "createdAt": "2025-05-01T11:00:00Z",
+            "createdBy": "you@example.com",
+            "updatedAt": "2025-06-10T14:45:00Z",
+            "updatedBy": "you@example.com"
+        },
+        {
+            "projectId": "9cfa35f8-b621-11ed-afa1-0242ac120002",
+            "projectName": "Blog Engine",
+            "projectDescription": "A simple markdown-based blog for publishing posts.",
+            "isTeamProject": false,
+            "isArchived": false,
+            "tags": [
+                "blog",
+                "markdown",
+                "static"
+            ],
+            "createdAt": "2024-10-03T07:20:00Z",
+            "createdBy": "you@example.com",
+            "updatedAt": "2024-12-11T16:10:00Z",
+            "updatedBy": "you@example.com"
+        },
+        {
+            "projectId": "b2c45bba-b621-11ed-afa1-0242ac120002",
+            "projectName": "Workout Planner",
+            "projectDescription": "Tool to schedule workouts and track progress.",
+            "isTeamProject": false,
+            "isArchived": true,
+            "tags": [
+                "fitness",
+                "planner",
+                "personal"
+            ],
+            "createdAt": "2023-07-21T09:10:00Z",
+            "createdBy": "you@example.com",
+            "updatedAt": "2024-01-15T13:00:00Z",
+            "updatedBy": "you@example.com"
+        }
+    ],
+    "subscription": {
+        "title": "Upgrade your plan",
+        "trialMessage": "Your trial plan ends in 4 days.",
+        "ctaMessage": "Upgrade to unlock full potential",
+        "buttonLabel": "Upgrade",
+        "icon": "rocket",
+        "status": "trial",
+        "daysRemaining": 4
+    }
 }
